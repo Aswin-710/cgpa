@@ -1,0 +1,42 @@
+*{
+    font-family: 'Inconsolata',monospace;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-D6AS7tb8d4BFcJDDF3BPUe_1cQ1xRAnYA&usqp=CAU");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.container{
+    background-color:none;
+    margin: 120px auto;
+}
+table{
+    width: 100%;
+    border-color: #f4f4f4;
+}
+td{
+    width: 25%;
+}
+input[type="button"]
+{
+    border-radius: 10px;
+    background-color:rgb(176, 220, 255);
+    color: black;
+    border: none;
+    width:100%;
+    height: 70px;
+    font-size: 24px;
+}
+input[type="text"]
+{
+    border-radius: 10px;
+    text-align: right;
+    background-color:rgb(223, 255, 235);
+    border-color: black ;
+    width:100%;
+    height: 70px;
+    font-size: 24px;
+}

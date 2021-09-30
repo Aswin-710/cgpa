@@ -1,0 +1,35 @@
+body {
+  font-family : Monospace;
+  background-color : #222;
+  color : white;
+  padding: 10px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-D6AS7tb8d4BFcJDDF3BPUe_1cQ1xRAnYA&usqp=CAU");
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.first {
+  padding: 10px;
+  margin-top: 10%;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: rgb(211, 208, 208);
+  border-radius: 5px;
+}
+.second{
+  padding: 10px;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-style: none;
+  background-color: rgb(186, 151, 252);
+}
+.second input {
+  color: black;
+  text-align: center;
+  border-radius: 3px;
+  width: 60px;
+  background-color: rgb(211, 208, 208);
+  border-style: none;
+}
